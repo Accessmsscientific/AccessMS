@@ -550,7 +550,7 @@ input, select, textarea {
 		text-align: center;
 		top: 0em;
 		vertical-align: middle;
-		width: 99%;
+		width: 90%;
 	}
 
 		#header h1 {
@@ -569,12 +569,12 @@ input, select, textarea {
 		}
 
 		#header nav {
-			margin: 0.5em 0 0 0;
+			margin: 0.0em 0 0 0;
 		}
 
 		#header nav h6 {
-			font-size: 1.0em;
-			font-weight: 500;
+			font-size: 1.2em;
+			font-weight: 600;
 			letter-spacing: -0.035em;
 			line-height: 1em;
 		}
@@ -596,8 +596,8 @@ input, select, textarea {
 				line-height: 0em;
 				opacity: 0;
 				position: relative;
-				top: 0em;
-				width: 5em;
+				top: 0.0em;
+				width: 6em;
 			}
 
 				#header nav li:nth-child(1) {
