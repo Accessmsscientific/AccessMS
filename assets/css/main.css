@@ -548,29 +548,36 @@ input, select, textarea {
 		opacity: 0;
 		position: relative;
 		text-align: center;
-		top: -1em;
+		top: 0em;
 		vertical-align: middle;
-		width: 90%;
+		width: 99%;
 	}
 
 		#header h1 {
 			font-size: 2.0em;
-			font-weight: 900;
+			font-weight: 50;
 			letter-spacing: -0.035em;
 			line-height: 1em;
 		}
 
+		
 		#header p {
-			font-size: 1.25em;
-			font-weight: 900;
+			font-size: 0.6;
+			font-weight: 500;
 			margin: 0.75em 0 0.25em 0;
 			opacity: 0.75;
 		}
 
 		#header nav {
-			margin: 1.5em 0 0 0;
+			margin: 0.5em 0 0 0;
 		}
 
+		#header nav h6 {
+			font-size: 1.0em;
+			font-weight: 500;
+			letter-spacing: -0.035em;
+			line-height: 1em;
+		}
 			#header nav li {
 				-moz-animation: nav-icons 0.5s ease-in-out forwards;
 				-webkit-animation: nav-icons 0.5s ease-in-out forwards;
@@ -585,12 +592,12 @@ input, select, textarea {
 				-ms-transform: translate3d(0,0,0);
 				transform: translate3d(0,0,0);
 				display: inline-block;
-				height: 1em;
-				line-height: 1em;
+				height: 0em;
+				line-height: 0em;
 				opacity: 0;
 				position: relative;
-				top: 0;
-				width: 5.35em;
+				top: 0em;
+				width: 5em;
 			}
 
 				#header nav li:nth-child(1) {
@@ -676,7 +683,7 @@ input, select, textarea {
 					-ms-transition: all 0.2s ease-in-out;
 					transition: all 0.2s ease-in-out;
 					border-radius: 100%;
-					border: solid 1px #fff;
+					border: solid 1px #608850;
 					display: block;
 					font-size: 1.75em;
 					height: 2.5em;
@@ -693,7 +700,7 @@ input, select, textarea {
 
 					#header nav a:hover:before {
 						background-color: rgba(255, 255, 255, 0.175);
-						color: #fff;
+						color: #608850;
 					}
 
 				#header nav a:active {
@@ -980,7 +987,7 @@ input, select, textarea {
 	/* Header */
 
 		#header h1 {
-			font-size: 1.0em;
+			font-size: 1.2em;
 		}
 
 		#header p {
