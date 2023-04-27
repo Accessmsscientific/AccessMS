@@ -13,8 +13,7 @@
     <div id="wrapper">
       <div id="bg"> </div>
       <div id="overlay"> </div>
-      <div id="main">
-        <!-- Header -->
+      <div id="main"> <!-- Header -->
         <header id="header">
           <h1 style="font-size: 1em;"><span style="color: black;">Mass
               spectrometry facilitation and consulatation services</span></h1>
@@ -28,8 +27,8 @@
                 <li style="width: 5.5em;"><a href="services.html">
                     <h6>Services</h6>
                   </a> </li>
-                <li style="width: 5.5em;"><a href="team.html">
-                    <h6>The Team</h6>
+                <li style="width: 5.5em;"><a href="analytics.html">
+                    <h6>Analytics</h6>
                   </a> </li>
               </span>
             </ul>
@@ -37,14 +36,17 @@
           <nav>
             <ul>
               <span style="color: #336600;">
-                <li style="width: 5.5em;"><a href="index.html" class="icon solid fa-home" style="font-size: 0.7em;">
-                  </a><br>
+                <li style="width: 5.5em;"><a href="index.html" class="icon solid fa-home"
+
+                    style="font-size: 0.7em;"> </a><br>
                 </li>
-                <li style="width: 5.5em;"><a href="services.html" class="icon solid fa-list" style="font-size: 0.7em;">
-                  </a> <br>
+                <li style="width: 5.5em;"><a href="services.html" class="icon solid fa-list"
+
+                    style="font-size: 0.7em;"> </a> <br>
                 </li>
-                <li style="width: 5.5em;"><a href="team.html" class="icon solid fa-users" style="font-size: 0.7em;">
-                  </a> <br>
+                <li style="width: 5.5em;"><a href="analytics.html" class="icon solid fa-cog"
+
+                    style="font-size: 0.7em;"> </a> <br>
                 </li>
               </span>
             </ul>
@@ -56,22 +58,29 @@
           <nav>
             <ul>
               <span style="color: #336600;">
-                <li style="display: inline-table;" style="width: 10em;"><img src="edyta.png" alt="dsaad" title="das" style="width: 100px; height: 100px;"><h1 style="font-size: 1em;"><span style="color: black;">Edyta Marcon, PhD</span></h1>
-                </li>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-                
-                <li style="display: inline-table;" style="width: 10em;"><img src="hongbo.png" alt="dsaad" title="das" style="width: 100px; height: 100px;"><h1 style="font-size: 1em;"><span style="color: black;">Hongbo Guo, MSc</span></h1>
-                </li>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-                
-                <li style="display: inline-table;" style="width: 10em;"><img src="uros.png" alt="dsaad" title="das" style="width: 100px; height: 100px;"><h1 style="font-size: 1em;" style="width: 10em;"><span style="color: black;">Uros Kuzmanov, PhD</span></h1>
+                <li style="display: inline-table;"><img src="edyta.png" alt="dsaad"
+
+                    title="das" style="width: 100px; height: 100px;">
+                  <h1 style="font-size: 1em;"><span style="color: black;">Edyta
+                      Marcon, PhD</span></h1>
+                </li>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <li style="display: inline-table;"><img src="hongbo.png" alt="dsaad"
+
+                    title="das" style="width: 100px; height: 100px;">
+                  <h1 style="font-size: 1em;"><span style="color: black;">Hongbo
+                      Guo, MSc</span></h1>
+                </li>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <li style="display: inline-table;"><img src="uros.png" alt="dsaad"
+
+                    title="das" style="width: 100px; height: 100px;">
+                  <h1 style="font-size: 1em;"><span style="color: black;">Uros
+                      Kuzmanov, PhD</span></h1>
                 </li>
               </span>
             </ul>
           </nav>
-        
-          
-          
-          
-          
         </header>
         <!-- Footer -->
         <footer id="footer"> <span style="color: #000000;" class="copyright"> <a
