@@ -18,51 +18,64 @@
         <header id="header">
           <h1><span style="color: black;">Mass spectrometry facilitation and
               consulatation services</span></h1>
-          <p><span style="color: black;">Access MS Scientific Inc.</span></p>
+          <p><span style="color: gray;">© Access MS Scientific Inc.</span></p>
+          <br>
+          
           <nav>
             <ul>
-              <span style="color: black;">
-                <li><a href="https://accessmsscientific.github.io/AccessMS/">
-                    <h2> <b>Home </b></h2>
+              <span style="color: #193300;">
+                <li><a href="index.html">
+                    <h6>Home</h6>
                   </a></li>
-                <li><a href="https://accessmsscientific.github.io/AccessMS/">
-                    <h2> <b>Services </b></h2>
+                <li><a href="services.html">
+                    <h6>Services</h6>
                   </a> </li>
-                <li><a href="https://accessmsscientific.github.io/AccessMS/">
-                    <h2> Data Analysis </h2>
-                  </a> </li>
-                <li><a href="https://accessmsscientific.github.io/AccessMS/">
-                    <h2> <b>The Team </b></h2>
+                <li><a href="team.html">
+                    <h6>The Team</h6>
                   </a> </li>
               </span>
             </ul>
           </nav>
           <nav>
             <ul>
-              
-                <li><a href="https://accessmsscientific.github.io/AccessMS/" class="icon brands fa-twitter"><span
+              <span style="color: #336600;">
+                <li><a href="index.html" class="icon solid fa-home"
 
-                      class="label">Twitter</span></a></li>
-                <li><a href="https://accessmsscientific.github.io/AccessMS/" class="icon brands fa-github"><span
+                    style="font-size: 0.7em;"> </a><br>
+                </li>
+                <li><a href="services.html" class="icon solid fa-list"
 
-                      class="label">Github</span></a></li>
-                <li><a href="mailto:%20accessmsscientific@gmail.com" class="icon solid fa-envelope"><span
+                    style="font-size: 0.7em;"> </a> <br>
+                </li>
+                <li><a href="home.html" class="icon solid fa-users"
 
-                      class="label">Email</span></a></li>
-              
+                    style="font-size: 0.7em;"> </a> <br>
+                </li>
+              </span>
             </ul>
           </nav>
+          
         </header>
         <!-- Footer -->
-        <footer id="footer"><span style="color: black;"> <span class="copyright">©
-              Access MS Scientific Inc. Design: <a href="https://accessmsscientific.github.io/AccessMS/">LaraAna
-                </a></span> </span> </footer> </div>
+        <footer id="footer"> 
+          <span style="color: #000000;" class="copyright">
+            
+            <a href="mailto:%20accessmsscientific@gmail.com" 
+                        class="icon solid fa-envelope" style="font-size: 2em;"><span class="label">Twitter</span></a>
+            
+            &nbsp; &nbsp; &nbsp; <a href="https://accessmsscientific.github.io/AccessMS/"
+              class="icon brands fa-twitter" style="font-size: 2em;"> </a> 
+          	
+            &nbsp; &nbsp; &nbsp; <a href="https://accessmsscientific.github.io/AccessMS/" 
+               class="icon brands fa-linkedin" style="font-size: 2em;"></a>
+          
+          </span> </footer>
+      </div>
     </div>
     <script>
 			window.onload = function() { document.body.classList.remove('is-preload'); }
 			window.ontouchmove = function() { return false; }
 			window.onorientationchange = function() { document.body.scrollTop = 0; }
 		</script>
-    
   </body>
 </html>

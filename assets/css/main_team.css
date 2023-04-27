@@ -547,14 +547,15 @@ input, select, textarea {
 		display: inline-block;
 		opacity: 0;
 		position: relative;
+		margin-left: ;
 		text-align: center;
-		top: 0em;
+		top: -42em;
 		vertical-align: middle;
-		width: 90%;
+		width:100%;
 	}
 
 		#header h1 {
-			font-size: 2.0em;
+			font-size: ;
 			font-weight: 50;
 			letter-spacing: -0.035em;
 			line-height: 1em;
@@ -564,8 +565,8 @@ input, select, textarea {
 		#header p {
 			font-size: 0.6;
 			font-weight: 500;
-			margin: 0.75em 0 0.25em 0;
-			opacity: 0.75;
+			margin: 0.0em 0 0.25em 0;
+			opacity: 1.0;
 		}
 
 		#header nav {
@@ -596,11 +597,12 @@ input, select, textarea {
 				line-height: 0em;
 				opacity: 0;
 				position: relative;
-				top: 0.0em;
-				width: 5.5em;
+				top: ;
+				width: ;
 				
 			}
 
+			
 				#header nav li:nth-child(1) {
 					-moz-animation-delay: 2.5s;
 					-webkit-animation-delay: 2.5s;
