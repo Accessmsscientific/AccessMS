@@ -5,19 +5,20 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <title>Access MS Scientific Inc.</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <link rel="stylesheet" href="assets/css/main_services.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
+    <link rel="stylesheet" href="assets/css/main_TEST.css">
     <noscript><link rel="stylesheet" href="assets/css/noscript.css"></noscript>
   </head>
   <body class="is-preload">
-      <div id="wrapper">
+    <div id="wrapper">
       <div id="bg"> </div>
       <div id="overlay"> </div>
       <div id="main">
         <!-- Header -->
         <header id="header">
           <h1 style="font-size: 1em;"><span style="color: black;">ALL IN ONE MS
-              RESEARCH FACILITATION SERVICES </span></h1>
+              RESEARCH FACILITATION SERVICES
+            </span></h1>
           <p><span style="color: gray;">© Access MS Scientific Inc.</span></p>
           <nav>
             <ul>
@@ -25,8 +26,8 @@
                 <li><a href="index.html">
                     <h6>Home</h6>
                   </a></li>
-                <li><a href="analytics.html">
-                    <h6>Analytics</h6>
+                <li><a href="services.html">
+                    <h6>Services</h6>
                   </a> </li>
                 <li><a href="team.html">
                     <h6>The Team</h6>
@@ -40,7 +41,7 @@
                 <li><a href="index.html" class="icon solid fa-home" style="font-size: 0.7em;">
                   </a><br>
                 </li>
-                <li><a href="analytics.html" class="icon solid fa-cog" style="font-size: 0.7em;">
+                <li><a href="services.html" class="icon solid fa-list" style="font-size: 0.7em;">
                   </a> <br>
                 </li>
                 <li><a href="team.html" class="icon solid fa-users" style="font-size: 0.7em;">
@@ -50,39 +51,12 @@
             </ul>
           </nav>
           <br>
+            <h1 style="font-size: 2em;"><span style="color: black;">ANALYTICS</span></h1>
+          
           <br>
-          <br>
-          <br>
-          <nav>
-            <ul>
-              <span style="color: #336600;">
-                <li style="display: inline-table;"><img src="Overview.png" style="width: 600px; height: 200px;">
-                </li>
-              </span>
-            </ul>
-          </nav>
+          <img src="Data Analysis.png" style="max-width: 70%; height: auto;"> 
+        
         </header>
-        
-          <ul>
-              <span style="color: #336600;">
-                <li style="display: inline-table;"><img src="Overview.png" style="width: 600px; height: 200px;">
-                </li>
-              </span>
-            </ul> 
-        
-        <!-- Footer -->
-        <footer id="footer"> <span style="color: #000000;" class="copyright"> <a
-
-              href="mailto:%20accessmsscientific@gmail.com" class="icon solid fa-envelope"
-
-              style="font-size: 2em;"><span class="label">Twitter</span></a>
-            &nbsp;&nbsp;&nbsp;
-            <!--a href="https://accessmsscientific.github.io/AccessMS/"
-              class="icon brands fa-twitter" style="font-size: 2em;"-->
-            <!--/a--> &nbsp;&nbsp;&nbsp;
-            <!--a href="https://accessmsscientific.github.io/AccessMS/"
-              class="icon brands fa-linkedin" style="font-size: 2em;"--><!--/a-->
-          </span> </footer>
       </div>
     </div>
     <script>
@@ -90,7 +64,5 @@
 			window.ontouchmove = function() { return false; }
 			window.onorientationchange = function() { document.body.scrollTop = 0; }
 		</script>
-    
   </body>
-  
 </html>
