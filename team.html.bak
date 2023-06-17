@@ -4,21 +4,21 @@
 <html>
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <title>Access MS Scientific Inc.</title>
+    <title>Team - Access MS Scientific Inc.</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <link rel="stylesheet" href="assets/css/main_team.css">
+    <link rel="stylesheet" href="assets/css/main.css">
     <noscript><link rel="stylesheet" href="assets/css/noscript.css"></noscript>
   </head>
   <body class="is-preload">
     <div id="wrapper">
       <div id="bg"> </div>
-      <div id="overlay"> </div>
-      <div id="main"> <!-- Header -->
+      <div id="overlay"> <h1 style="font-size: 1em; font-style: italic;"><span style="color: black;">ALL-IN-ONE MS
+              RESEARCH FACILITATION SERVICES </span></h1>
+          <p style="line-height: 1em;"><span style="color: gray;">© Access MS Scientific Inc.</span></p></div>
+      <div id="main">
+        <!-- Header -->
         <header id="header">
-          <h1 style="font-size: 1em;"><span style="color: black;">Mass
-              spectrometry facilitation and consulatation services</span></h1>
-          <p><span style="color: gray;">© Access MS Scientific Inc.</span></p>
-          <nav>
+           <nav>
             <ul>
               <span style="color: #193300;">
                 <li style="width: 5.5em;"><a href="index.html">
@@ -52,48 +52,28 @@
             </ul>
           </nav>
           <br>
+          <h2 style="color: black" align="left">'...is based in Toronto,
+            Ontario, Canada' </h2>
           <br>
+          <h2 style="color: black" align="left">'...provides consultation
+            services for all MS-based research needs including experimental
+            design, access to top of the line mass spectrometry instruments, and
+            analysis pipeline' </h2>
           <br>
+          <h2 style="color: black" align="left">'...was founded by a team of MS
+            spectrometry experts from the University of Toronto' </h2>
           <br>
-          <nav>
-            <ul>
-              <span style="color: #336600;">
-                <li style="display: inline-table;"><img src="edyta.png" alt="dsaad"
-
-                    title="das" style="width: 100px; height: 100px;">
-                  <h1 style="font-size: 1em;"><span style="color: black;">Edyta
-                      Marcon, PhD</span></h1>
-                </li>
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                <li style="display: inline-table;"><img src="hongbo.png" alt="dsaad"
-
-                    title="das" style="width: 100px; height: 100px;">
-                  <h1 style="font-size: 1em;"><span style="color: black;">Hongbo
-                      Guo, MSc</span></h1>
-                </li>
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                <li style="display: inline-table;"><img src="uros.png" alt="dsaad"
-
-                    title="das" style="width: 100px; height: 100px;">
-                  <h1 style="font-size: 1em;"><span style="color: black;">Uros
-                      Kuzmanov, PhD</span></h1>
-                </li>
-              </span>
-            </ul>
-          </nav>
+          <h2 style="color: black" align="left">'...provides expertise in
+            Proteomics, Post-translational protein modifications, Metabolomics,
+            RNA modifications, drug discovery, biomarker analysis, toxicology,
+            and much more' </h2>
         </header>
         <!-- Footer -->
         <footer id="footer"> <span style="color: #000000;" class="copyright"> <a
 
               href="mailto:%20accessmsscientific@gmail.com" class="icon solid fa-envelope"
 
-              style="font-size: 2em;"><span class="label">Twitter</span></a>
-            &nbsp;&nbsp;&nbsp;<a href="https://accessmsscientific.github.io/AccessMS/"
-
-              class="icon brands fa-twitter" style="font-size: 2em;"> </a>
-            &nbsp;&nbsp;&nbsp;<a href="https://accessmsscientific.github.io/AccessMS/"
-
-              class="icon brands fa-linkedin" style="font-size: 2em;"></a> </span>
+              style="font-size: 2em;"><span class="label">Twitter</span></a> </span>
         </footer>
       </div>
     </div>
@@ -102,5 +82,6 @@
 			window.ontouchmove = function() { return false; }
 			window.onorientationchange = function() { document.body.scrollTop = 0; }
 		</script>
+    
   </body>
 </html>

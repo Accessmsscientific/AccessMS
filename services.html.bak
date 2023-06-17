@@ -4,32 +4,34 @@
 <html>
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <title>Access MS Scientific Inc.</title>
+    <title>Services - Access MS Scientific Inc.</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <link rel="stylesheet" href="assets/css/main_services.css">
+    <link rel="stylesheet" href="assets/css/main.css">
     <noscript><link rel="stylesheet" href="assets/css/noscript.css"></noscript>
   </head>
   <body class="is-preload">
     <div id="wrapper">
       <div id="bg"> </div>
-      <div id="overlay"> </div>
+      <div id="overlay">
+        <h1 style="font-size: 1em;"><span style="color: black; font-style: italic;">ALL-IN-ONE
+            MS RESEARCH FACILITATION SERVICES </span></h1>
+        <p style="line-height: 1em;"><span style="color: gray;">© Access MS
+            Scientific Inc.</span></p>
+      </div>
       <div id="main">
         <!-- Header -->
         <header id="header">
-          <h1 style="font-size: 1em;"><span style="color: black;">ALL IN ONE MS
-              RESEARCH FACILITATION SERVICES </span></h1>
-          <p><span style="color: gray;">© Access MS Scientific Inc.</span></p>
           <nav>
             <ul>
               <span style="color: #193300;">
-                <li><a href="index.html">
+                <li style="width: 5.5em;"><a href="index.html">
                     <h6>Home</h6>
                   </a></li>
-                <li><a href="analytics.html">
-                    <h6>Analytics</h6>
+                <li style="width: 5.5em;"><a href="services.html">
+                    <h6>Services</h6>
                   </a> </li>
-                <li><a href="team.html">
-                    <h6>The Team</h6>
+                <li style="width: 5.5em;"><a href="analytics.html">
+                    <h6>Analytics</h6>
                   </a> </li>
               </span>
             </ul>
@@ -37,14 +39,17 @@
           <nav>
             <ul>
               <span style="color: #336600;">
-                <li><a href="index.html" class="icon solid fa-home" style="font-size: 0.7em;">
-                  </a><br>
+                <li style="width: 5.5em;"><a href="index.html" class="icon solid fa-home"
+
+                    style="font-size: 0.7em;"> </a><br>
                 </li>
-                <li><a href="analytics.html" class="icon solid fa-cog" style="font-size: 0.7em;">
-                  </a> <br>
+                <li style="width: 5.5em;"><a href="services.html" class="icon solid fa-list"
+
+                    style="font-size: 0.7em;"> </a> <br>
                 </li>
-                <li><a href="team.html" class="icon solid fa-users" style="font-size: 0.7em;">
-                  </a> <br>
+                <li style="width: 5.5em;"><a href="analytics.html" class="icon solid fa-cog"
+
+                    style="font-size: 0.7em;"> </a> <br>
                 </li>
               </span>
             </ul>
@@ -52,9 +57,15 @@
           <br>
           <h1 style="font-size: 2em;"><span style="color: black;">SERVICES</span></h1>
           <br>
+          <img src="services.png">
           <br>
           <br>
-          <img src="Overview.png" style="width: 75%; height: auto;"> </header>
+          <h2 style="color: black" align="left">'Our mission is to provide our clients with access to the most advanced and cutting-edge mass spectrometry technologies, experimental design and analysis pipeline enabling them to accelerate discovery and innovation in the fields of proteomics, metabolomics, RNA modification, drug discovery, biomarker analysis, toxicology, and more' </h2>
+        <br>
+          <h2 style="color: black" align="left">'We are committed to providing the highest level of customer service, technical expertise, and scientific excellence to help our clients achieve their research goals' </h2>
+        
+        
+        </header>
         <!-- Footer -->
         <footer id="footer"> <span style="color: #000000;" class="copyright"> <a
 

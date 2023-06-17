@@ -104,7 +104,7 @@ input, select, textarea {
 		font-size: 15pt;
 		font-weight: 300 !important;
 		letter-spacing: -0.025em;
-		line-height: 1.75em;
+		line-height: 1.5em;
 	}
 
 	a {
@@ -362,6 +362,7 @@ input, select, textarea {
 		position: fixed;
 		top: 0;
 		width: 100%;
+		text-align: center;
 	}
 
 /* Main */
@@ -553,14 +554,31 @@ input, select, textarea {
 		width: 90%;
 	}
 
+		#header img {
+			max-width: 65%;
+			height: auto;
+			
+		}
+
 		#header h1 {
 			font-size: 2.0em;
 			font-weight: 50;
 			letter-spacing: -0.035em;
-			line-height: 1em;
+			line-height: 1.0em;
 		}
 
-		
+		#header h2 {
+			text-align: justify;
+			font-weight: ;
+			font-size: 1.4em;
+			letter-spacing: -0.035em;
+			line-height: 1em;
+			font-style: italic;
+			max-width: 65%;
+			height: auto;
+			margin: auto;
+		}
+
 		#header p {
 			font-size: 0.6;
 			font-weight: 500;
@@ -597,7 +615,7 @@ input, select, textarea {
 				opacity: 0;
 				position: relative;
 				top: 0.0em;
-				width: 5.5em;
+				width: 5.0em;
 				
 			}
 
@@ -981,14 +999,29 @@ input, select, textarea {
 		}
 
 		#bg {
-			background-size: 300px auto;
-			width: 900px;
+			background-size: ;
+			height: ;
+			width: ;
 		}
 
 	/* Header */
 
+
+		#header img {
+			max-width: 100%;
+			height: auto;
+			
+			
+		}
+
 		#header h1 {
 			font-size: 1.2em;
+		}
+		
+		#header h2 {
+			font-size: 1.0em;
+			max-width: 100%;
+			height: auto;
 		}
 
 		#header p {
