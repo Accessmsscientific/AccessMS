@@ -1140,6 +1140,13 @@ input, select, textarea {
 
 	/* Header */
 
+		#header img {
+			max-width: 60%;
+			height: auto;
+			
+			
+		}
+
 		#header nav {
 			padding: 0 1em;
 		} }
