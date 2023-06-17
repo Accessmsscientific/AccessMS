@@ -27,11 +27,11 @@
                 <li style="width: 5.5em;"><a href="index.html">
                     <h6>Home</h6>
                   </a></li>
-                <li style="width: 5.5em;"><a href="services.html">
-                    <h6>Services</h6>
-                  </a> </li>
                 <li style="width: 5.5em;"><a href="analytics.html">
                     <h6>Analytics</h6>
+                  </a> </li>
+                <li><a href="team.html">
+                    <h6>Team</h6>
                   </a> </li>
               </span>
             </ul>
@@ -43,13 +43,12 @@
 
                     style="font-size: 0.7em;"> </a><br>
                 </li>
-                <li style="width: 5.5em;"><a href="services.html" class="icon solid fa-list"
-
-                    style="font-size: 0.7em;"> </a> <br>
-                </li>
                 <li style="width: 5.5em;"><a href="analytics.html" class="icon solid fa-cog"
 
                     style="font-size: 0.7em;"> </a> <br>
+                </li>
+                <li><a href="team.html" class="icon solid fa-users" style="font-size: 0.7em;">
+                  </a> <br>
                 </li>
               </span>
             </ul>
@@ -57,14 +56,19 @@
           <br>
           <h1 style="font-size: 2em;"><span style="color: black;">SERVICES</span></h1>
           <br>
-          <img src="services.png">
+          <h2 style="color: black" align="left">'Our mission is to provide our
+            clients with access to the most advanced and cutting-edge mass
+            spectrometry technologies, experimental design and analysis pipeline
+            enabling them to accelerate discovery and innovation in the fields
+            of proteomics, metabolomics, RNA modification, drug discovery,
+            biomarker analysis, toxicology, and more' </h2>
           <br>
+          <img src="services.png"> <br>
           <br>
-          <h2 style="color: black" align="left">'Our mission is to provide our clients with access to the most advanced and cutting-edge mass spectrometry technologies, experimental design and analysis pipeline enabling them to accelerate discovery and innovation in the fields of proteomics, metabolomics, RNA modification, drug discovery, biomarker analysis, toxicology, and more' </h2>
-        <br>
-          <h2 style="color: black" align="left">'We are committed to providing the highest level of customer service, technical expertise, and scientific excellence to help our clients achieve their research goals' </h2>
-        
-        
+          <h2 style="color: black" align="left">'We are committed to providing
+            the highest level of customer service, technical expertise, and
+            scientific excellence to help our clients achieve their research
+            goals' </h2>
         </header>
         <!-- Footer -->
         <footer id="footer"> <span style="color: #000000;" class="copyright"> <a
@@ -75,8 +79,7 @@
             &nbsp;&nbsp;&nbsp;
             <!--a href="https://accessmsscientific.github.io/AccessMS/"
               class="icon brands fa-twitter" style="font-size: 2em;"-->
-            <!--/a--> &nbsp;&nbsp;&nbsp;
-            <!--a href="https://accessmsscientific.github.io/AccessMS/"
+            <!--/a--> &nbsp;&nbsp;&nbsp; <!--a href="https://accessmsscientific.github.io/AccessMS/"
               class="icon brands fa-linkedin" style="font-size: 2em;"--><!--/a-->
           </span> </footer>
       </div>
@@ -86,6 +89,5 @@
 			window.ontouchmove = function() { return false; }
 			window.onorientationchange = function() { document.body.scrollTop = 0; }
 		</script>
-    
   </body>
 </html>
