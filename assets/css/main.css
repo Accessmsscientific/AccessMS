@@ -549,8 +549,8 @@ input, select, textarea {
 		opacity: 0;
 		position: relative;
 		text-align: center;
-		top: 0em;
-		vertical-align: middle;
+		top: 5em;
+		vertical-align: top;
 		width: 90%;
 	}
 
