@@ -84,7 +84,7 @@ input, select, textarea {
 
 	body {
 		background: #fff;
-		overflow: hidden;
+		overflow: scroll;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -549,9 +549,10 @@ input, select, textarea {
 		opacity: 0;
 		position: relative;
 		text-align: center;
-		top: 5em;
+		top: 3.5em;
 		vertical-align: top;
 		width: 90%;
+		
 	}
 
 		#header img {
