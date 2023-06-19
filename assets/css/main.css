@@ -360,9 +360,10 @@ input, select, textarea {
 		left: 0;
 		opacity: 0;
 		position: fixed;
-		top: 0;
+		top: 0.5em;
 		width: 100%;
 		text-align: center;
+		line-height:;
 	}
 
 /* Main */
@@ -593,6 +594,7 @@ input, select, textarea {
 
 		#header nav {
 			margin: 0.0em 0 0 0;
+			
 		}
 
 		#header nav h6 {
@@ -1005,7 +1007,7 @@ input, select, textarea {
 		}
 
 		#bg {
-			background-size: ;
+			background-size:;
 			height: ;
 			width: ;
 		}
