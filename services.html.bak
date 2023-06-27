@@ -12,7 +12,7 @@
   <body class="is-preload">
     <div id="wrapper">
       <div id="bg"> </div>
-      <div id="overlay" style="background-color: gray">
+      <div id="overlay">
         <h1 style="font-size: 1em;"><span style="color: black; font-style: italic;">ALL-IN-ONE
             MS RESEARCH FACILITATION SERVICES </span></h1>
         <p style="line-height: 1em;"><span style="color: gray;">© Access MS

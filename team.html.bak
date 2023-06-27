@@ -12,13 +12,17 @@
   <body class="is-preload">
     <div id="wrapper">
       <div id="bg"> </div>
-      <div id="overlay"> <h1 style="font-size: 1em; font-style: italic;"><span style="color: black;">ALL-IN-ONE MS
-              RESEARCH FACILITATION SERVICES </span></h1>
-          <p style="line-height: 1em;"><span style="color: gray;">© Access MS Scientific Inc.</span></p></div>
+      <div id="overlay">
+        <h1 style="font-size: 1em; font-style: italic;"><span style="color: black;">ALL-IN-ONE
+            MS RESEARCH FACILITATION SERVICES </span></h1>
+        <p style="line-height: 1em;"><span style="color: gray;">© Access MS
+            Scientific Inc.</span></p>
+      </div>
+      <br>
       <div id="main">
         <!-- Header -->
         <header id="header">
-           <nav>
+          <nav>
             <ul>
               <span style="color: #193300;">
                 <li style="width: 5.5em;"><a href="index.html">
@@ -73,7 +77,7 @@
         <!-- Footer -->
         <footer id="footer"> <span style="color: #000000;" class="copyright"> <a
 
-              href="mailto:%20accessmsscientific@gmail.com" class="icon solid fa-envelope"
+              href="mailto: admin@accessms.ca" class="icon solid fa-envelope"
 
               style="font-size: 2em;"><span class="label">Twitter</span></a> </span>
         </footer>
@@ -84,6 +88,5 @@
 			window.ontouchmove = function() { return false; }
 			window.onorientationchange = function() { document.body.scrollTop = 0; }
 		</script>
-    
   </body>
 </html>

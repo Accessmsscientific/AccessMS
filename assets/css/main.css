@@ -360,7 +360,7 @@ input, select, textarea {
 		left: 0;
 		opacity: 0;
 		position: fixed;
-		top: 0.5em;
+		top: 0.25em;
 		width: 100%;
 		text-align: center;
 		line-height:;
@@ -623,6 +623,7 @@ input, select, textarea {
 				position: relative;
 				top: 0.0em;
 				width: 5.0em;
+				opacity:;
 				
 			}
 
@@ -718,6 +719,8 @@ input, select, textarea {
 					text-align: center;
 					top: 0;
 					width: 2.5em;
+					
+										
 				}
 
 				#header nav a:hover {

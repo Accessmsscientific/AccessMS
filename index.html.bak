@@ -13,11 +13,10 @@
     <div id="wrapper">
       <div id="bg"></div>
       <div id="overlay"></div>
-      <div id="main">
-        <!-- Header -->
+      <div id="main"> <!-- Header -->
         <header id="header">
-          <h1><span style="color: black; font-style: italic;">ALL-IN-ONE MS RESEARCH FACILITATION
-              SERVICES </span></h1>
+          <h1><span style="color: black; font-style: italic;">ALL-IN-ONE MS
+              RESEARCH FACILITATION SERVICES </span></h1>
           <p><span style="color: gray;">© Access MS Scientific Inc.</span></p>
           <br>
           <nav>
@@ -52,7 +51,7 @@
           </nav>
           <br>
           <h2 style="color: black" align="left">'Accelerate your research
-            confidently with ACCESS MS all in one facilitation services to
+            confidently with ACCESS MS all-in-one facilitation services to
             ensure that you have access to the latest MS instruments and
             analysis methods, along with expert guidance...' </h2>
         </header>
@@ -69,6 +68,5 @@
 			window.ontouchmove = function() { return false; }
 			window.onorientationchange = function() { document.body.scrollTop = 0; }
 		</script>
-    
   </body>
 </html>
