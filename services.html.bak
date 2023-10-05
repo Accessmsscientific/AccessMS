@@ -72,18 +72,16 @@
             goals' </h2>
         </header>
         <!-- Footer -->
-        <footer id="footer"> <span style="color: #000000;" class="copyright"> <a
+       <footer id="footer"> <span style="color: #000000;" class="copyright"> <a
 
-              href="mailto:%20accessmsscientific@gmail.com" class="icon solid fa-envelope"
+              href="mailto:%20admin@accessms.ca" class="icon solid fa-envelope"
 
-              style="font-size: 2em;"><span class="label">Twitter</span></a>
-            &nbsp;&nbsp;&nbsp;
-            <!--a href="https://accessmsscientific.github.io/AccessMS/"
-              class="icon brands fa-twitter" style="font-size: 2em;"-->
-            <!--/a--> &nbsp;&nbsp;&nbsp;
-            <!--a href="https://accessmsscientific.github.io/AccessMS/"
-              class="icon brands fa-linkedin" style="font-size: 2em;"--><!--/a-->
-          </span> </footer>
+              style="font-size: 2em;"> </a> <a href="https://twitter.com/AccessMS_Sci"
+
+              class="icon brands fa-twitter" style="font-size: 2em;"> </a> <a href="https://ca.linkedin.com/in/access-ms-scientific-ba0167292"
+
+              class="icon brands fa-linkedin" style="font-size: 2em;"> </a> </span>
+        </footer>
       </div>
     </div>
     <script>
@@ -91,6 +89,5 @@
 			window.ontouchmove = function() { return false; }
 			window.onorientationchange = function() { document.body.scrollTop = 0; }
 		</script>
-    
   </body>
 </html>

@@ -8,6 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <link rel="stylesheet" href="assets/css/main.css">
     <noscript><link rel="stylesheet" href="assets/css/noscript.css"></noscript>
+    <meta name="keywords" content="mass, spectrometry, mass spectrometry, MS, LC-MS, biomarker, small molecule, accessms, tandem mass spectrometry, posttranslational modification, PTM, metabolomics, phosphoproteomic, glycomics, protein sequencing, network biology, bioinformatic">
   </head>
   <body class="is-preload">
     <div id="wrapper">
@@ -58,9 +59,14 @@
         <!-- Footer -->
         <footer id="footer"> <span style="color: #000000;" class="copyright"> <a
 
-              href="mailto: admin@accessms.ca" class="icon solid fa-envelope"
+              href="mailto:%20admin@accessms.ca" class="icon solid fa-envelope"
 
-              style="font-size: 2em;"> </a> </span> </footer>
+              style="font-size: 2em;"> </a> <a href="https://twitter.com/AccessMS_Sci"
+
+              class="icon brands fa-twitter" style="font-size: 2em;"> </a> <a href="https://ca.linkedin.com/in/access-ms-scientific-ba0167292"
+
+              class="icon brands fa-linkedin" style="font-size: 2em;"> </a> </span>
+        </footer>
       </div>
     </div>
     <script>
